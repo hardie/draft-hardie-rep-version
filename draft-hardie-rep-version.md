@@ -19,36 +19,36 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Robots Exclusion Protocol version considerations"
+abbrev: "REP Versions"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-hardie-rep-version
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: WIT
+workgroup: WITAREA
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - Robot
+ - Exclusion
+ - crawler
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
+  mail: witarea@ietf.org
+  arch: 
+  github: hardie/draft-hardie-rep-version
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
-
+    fullname: Ted Hardie
+    organization: 
+    email: ted.ietf@gmail.com
+    
 normative:
 
 informative:
