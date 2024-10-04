@@ -31,13 +31,13 @@ author:
     email: ted.ietf@gmail.com
     
 normative:
-
+RFC9309: Display: REP
 informative:
 
 
 --- abstract
 
-TODO Abstract
+The Robots Exclusion Protocol is a set of rules which a site owner may request that automated clients use when crawling the resources available via the web or other access methods{{RFC9309}}).  Historical practice has been that extensions to the base specification which are not parsable by a client are ignored. As the community considers specifying a new set of behaviors for crawlers which gather data for large language models or similar systems, this permissive approach may need to be reconsidered.  
 
 
 --- middle
